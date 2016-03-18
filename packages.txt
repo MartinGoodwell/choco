@@ -11,3 +11,4 @@ choco install fiddler4
 choco install skype
 choco install jdk8 -params "both=true"
 choco install maven
+choco install python3
