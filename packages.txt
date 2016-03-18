@@ -10,3 +10,5 @@ choco install winscp
 choco install fiddler4
 choco install skype
 choco install jdk8 -params "both=true"
+#winginx is like xampp
+choco install winginx
