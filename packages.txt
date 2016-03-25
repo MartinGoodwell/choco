@@ -13,3 +13,4 @@ choco install jdk8 -params "both=true"
 choco install maven
 choco install python3
 choco install irfanview
+choco install gotomeeting
